@@ -20,7 +20,8 @@ Este repo faz parte do monorepo virtual **[TTRPG](../../README.md)** (quando clo
 |-------|----------|
 | `DE-RPG/` | Detetive Existencial e material original |
 | `OP-RPG/` | **Legado** — material Ordem Paranormal antigo |
-| `Outros RPGs/` | Assimilação, Call of Cthulhu, DnD — **não** seguem convenções OPRPG |
+
+**Outros RPGs** (Assimilação, Call of Cthulhu, DnD) foi movido para o hub: [`repos/Outros RPGs/`](../../repos/Outros%20RPGs/) — versionado no repo `ttrpg`, não neste clone.
 
 **Ordem Paranormal canônico:** o vault ativo e completo está em [`ordem-paranormal-desespero`](https://github.com/FernandoManoelAlmeida/ordem-paranormal-desespero) (`repos/ordem-paranormal-desespero/` no hub). Evite editar `OP-RPG/` aqui e `Campanhas/` no OPD em paralelo para o mesmo conteúdo.
 
